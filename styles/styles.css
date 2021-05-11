@@ -1,0 +1,113 @@
+html * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* HEADER STYLES */
+header {
+  margin: 1vh 8vw;
+}
+div.col {
+  padding: 0;
+}
+div.image_icon {
+  text-align: end;
+}
+/* NAV STYLES */
+li {
+  align-self: center;
+}
+div.headerContain {
+  margin: 4vh 0vw;
+  padding: 0vh 1vw;
+}
+a.navColor {
+  padding-left: 1vw;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+div.container-fluid, div.navbar-collapse  {
+  margin: 0;
+  padding: 0;
+  height: 6vh;
+}
+div.collapse {
+  margin: 2vh 0vw;
+  width: 80vw;
+  padding: 0;
+}
+
+nav {
+  margin: 10vh 8vw 0vh 8vw;
+  background-color: #0D6DFF
+}
+
+/* GENERALS */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h3, h4, h5 {
+  text-align: center;
+  margin-bottom: 1vh;
+}
+.about{
+  margin-right: 10vw;
+}
+.logo {
+  width: 28vw;
+  margin-left: 2vw;
+}
+div.col-6 {
+  padding: 0;
+}
+div.tableMargin {
+  margin: 3vh 2vw 2vh 3vw;
+}
+
+div {
+  margin-top: 40px;
+  padding: 0vh 8vw;
+}
+.textContain {
+  margin: 0vh;
+}
+.houseContain {
+  margin: 0vh 8vw;
+}
+h2, p {
+  margin: 2.5vh 0.6vw;
+}
+th, td {
+  padding: 1vh 1vw;
+  text-align: center;
+}
+.thName, .tdMargin{
+  text-align: left;
+  width: 30vw;
+}
+.aNames {
+  text-decoration: none;
+}
+.btn {
+  width: 10vw;
+}
+/* FOOTER STYLES*/
+footer {
+  background-color: #025adf;
+  height: 5vh;
+  margin: 2vh 8vw 0vh 8vw;
+}
+.footer{
+  text-align: center;
+  color: white;
+}
+.pFooter{
+  padding-top: 1.5vh;
+  margin: 0vh;
+}
+.row {
+  padding: 0;
+}
+
